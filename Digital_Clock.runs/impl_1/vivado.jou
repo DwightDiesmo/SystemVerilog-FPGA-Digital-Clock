@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Apr  6 10:47:34 2022
+# Process ID: 7104
+# Current directory: C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.runs/impl_1
+# Command line: vivado.exe -log Digital_Clock.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Digital_Clock.tcl -notrace
+# Log file: C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.runs/impl_1/Digital_Clock.vdi
+# Journal file: C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Digital_Clock.tcl -notrace

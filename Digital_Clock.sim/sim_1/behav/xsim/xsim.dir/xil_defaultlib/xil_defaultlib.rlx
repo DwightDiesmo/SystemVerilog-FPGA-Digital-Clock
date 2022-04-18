@@ -1,0 +1,18 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sim_1/new/tb_Clock.sv,1648092077,systemVerilog,,,,tb_Clock,,uvm,,,,,,
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sim_1/new/tb_Digit_Display.sv,1649221067,systemVerilog,,,,tb_Digit_Display,,uvm,,,,,,
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sim_1/new/tb_Digital_Clock.sv,1649221239,systemVerilog,,,,tb_Digital_Clock,,uvm,,,,,,
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sim_1/new/tb_Mux_4_to_1.sv,1646271772,systemVerilog,,,,tb_Mux_4_to_1,,uvm,,,,,,
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sim_1/new/tb_Time_Counter.sv,1648093016,systemVerilog,,,,tb_Time_Counter,,uvm,,,,,,
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Clock.sv,1649220099,systemVerilog,,C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Digit_Display.sv,,Clock,,uvm,,,,,,
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Digit_Display.sv,1648087978,systemVerilog,,C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Digital_Clock.sv,,Digit_Display,,uvm,,,,,,
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Digital_Clock.sv,1649219645,systemVerilog,,C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Display_Decoder.sv,,Digital_Clock,,uvm,,,,,,
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Display_Decoder.sv,1646248484,systemVerilog,,C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Mux_4_to_1.sv,,Display_Decoder,,uvm,,,,,,
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Mux_4_to_1.sv,1646271935,systemVerilog,,C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Refresh_Counter.sv,,Mux_4_to_1,,uvm,,,,,,
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Refresh_Counter.sv,1646270377,systemVerilog,,C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Segment_Decoder.sv,,Refresh_Counter,,uvm,,,,,,
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Segment_Decoder.sv,1646248576,systemVerilog,,C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Time_Counter.sv,,Segment_Decoder,,uvm,,,,,,
+C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sources_1/new/Time_Counter.sv,1648092671,systemVerilog,,C:/Users/dwigh/Xilinx/Digital_Clock/Digital_Clock.srcs/sim_1/new/tb_Digital_Clock.sv,,Time_Counter,,uvm,,,,,,
